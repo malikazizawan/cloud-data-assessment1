@@ -1,0 +1,11 @@
+show_id,type,title,director,cast,country,release_year,duration,genre
+s1,Movie,Extraction,Sam Hargrave,Chris Hemsworth,United States,2020,117 min,Action
+s2,Movie,Bird Box,Susanne Bier,Sandra Bullock,United States,2018,124 min,Thriller
+s3,TV Show,Money Heist,Álex Pina,Álvaro Morte,Spain,2017,5 Seasons,Crime
+s4,Movie,The Irishman,Martin Scorsese,Robert De Niro,United States,2019,209 min,Drama
+s5,TV Show,Stranger Things,The Duffer Brothers,Millie Bobby Brown,United States,2016,4 Seasons,Sci-Fi
+s6,Movie,Extraction 2,Sam Hargrave,Chris Hemsworth,United States,2023,122 min,Action
+s7,Movie,The Gray Man,Anthony Russo,Ryan Gosling,United States,2022,128 min,Action
+s8,Movie,Enola Holmes,Harry Bradbeer,Millie Bobby Brown,United Kingdom,2020,123 min,Mystery
+s9,Movie,The Perfect Date,Chris Nelson,Noah Centineo,United States,2019,89 min,Romance
+s10,TV Show,The Witcher,Lauren Schmidt,Henry Cavill,Poland,2019,3 Seasons,Fantasy
